@@ -147,6 +147,42 @@ h5 {
 }
 
 .contact-us {
-    height: 200px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.blue-section {
+    height: 40%;
+    width: 50%;
+    background-color: #3882F6;
+    color: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.right-btn {
+    background-color: #3882F6;
+    color: #ffffff;
+    width: 90px;
+    height: 30px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+.p-last {
+    font-size: 12px;
+}
+
+footer {
+    height: 70px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
