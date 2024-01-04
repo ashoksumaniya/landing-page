@@ -146,6 +146,8 @@ h5 {
     margin-right: 543px;
 }
 
+/* Contact us style goes here */
+
 .contact-us {
     height: 300px;
     display: flex;
@@ -176,6 +178,8 @@ h5 {
 .p-last {
     font-size: 12px;
 }
+
+/* footer style goes here */
 
 footer {
     height: 70px;
